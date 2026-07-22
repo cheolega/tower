@@ -1,0 +1,2 @@
+# workflow scope 확보 전까지 임시 제외 (봇 배포 시 제거)
+.github/

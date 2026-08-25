@@ -29,20 +29,12 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "fix(dashboard): 구매 횟수·재구매율을 인원 추이보다 위로",
-          "at": "2026-08-25 11:19 KST"
-        },
-        {
-          "msg": "fix(dashboard): EGA Club·VIP 의 0회를 —로 접는다",
-          "at": "2026-08-25 11:19 KST"
-        },
-        {
-          "msg": "fix(dashboard): 월별 지표에서 사라지던 비회원 매출을 되살린다",
-          "at": "2026-08-25 11:19 KST"
+          "msg": "fix(dashboard): 기간 토글을 그 값이 바뀌는 섹션 옆으로",
+          "at": "2026-08-25 14:23 KST"
         }
       ],
-      "syncedAt": "2026-08-25 11:19 KST",
-      "head": "be979b92f05da3b4f92ef908463e9534eb85ff7b"
+      "syncedAt": "2026-08-25 14:23 KST",
+      "head": "a483075ac16a14e3b431928560e2e93a46f28fda"
     }
   }
 }

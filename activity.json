@@ -29,16 +29,12 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "test(grade): 운영 명칭 폴백에 맞춰 기대값 갱신",
-          "at": "2026-08-31 11:18 KST"
-        },
-        {
-          "msg": "fix(grade): 쓰지 않는 등급명 '웰컴'·'골드'를 화면에 노출하지 않는다",
-          "at": "2026-08-31 11:18 KST"
+          "msg": "fix(send): SMS 대체발송을 수신자의 SMS 동의로 한 번 더 좁힌다",
+          "at": "2026-09-04 13:19 KST"
         }
       ],
-      "syncedAt": "2026-08-31 11:18 KST",
-      "head": "c0c9ef8d04817c72c93bed0333ca17b78965a8f8"
+      "syncedAt": "2026-09-04 13:19 KST",
+      "head": "b416e3d55dac162f155b4052d5b9a606e3a2e00b"
     }
   }
 }

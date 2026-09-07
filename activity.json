@@ -29,20 +29,28 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "fix(grade): 화면에 남아 있던 enum 등급명을 걷어낸다",
-          "at": "2026-09-07 11:19 KST"
+          "msg": "docs(runbook): .env 백업은 릴리스 밖 /opt/ega-crm/env-backups 에 둔다",
+          "at": "2026-09-07 21:21 KST"
         },
         {
-          "msg": "fix(monthly-crm): 노트의 **강조** 표기와 부분 타깃 오독을 막는다",
-          "at": "2026-09-07 11:19 KST"
+          "msg": "fix(send): 배치 실패는 전부 끝난 뒤 한 번만 올린다 + 처리량 롤아웃 런북",
+          "at": "2026-09-07 21:21 KST"
         },
         {
-          "msg": "feat(monthly-crm): 회고를 표·차트로 읽히게 한다",
-          "at": "2026-09-07 11:19 KST"
+          "msg": "perf(send): pg-boss 폴링 유휴를 없애 처리량 천장을 올린다",
+          "at": "2026-09-07 21:21 KST"
+        },
+        {
+          "msg": "feat(reach): 카카오 미도달 이력으로 발송 모수를 좁힌다",
+          "at": "2026-09-07 21:21 KST"
+        },
+        {
+          "msg": "fix(overview): 발송 가능 모수를 실제 발송 게이트에 맞춘다",
+          "at": "2026-09-07 21:21 KST"
         }
       ],
-      "syncedAt": "2026-09-07 11:19 KST",
-      "head": "608ab50c5344aba880953d42282ed5bff6ce445c"
+      "syncedAt": "2026-09-07 21:21 KST",
+      "head": "417f3343162fa62318c61b2978a3e4fb07707914"
     }
   }
 }

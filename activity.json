@@ -29,12 +29,20 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "fix(send): SMS 대체발송을 수신자의 SMS 동의로 한 번 더 좁힌다",
-          "at": "2026-09-04 13:19 KST"
+          "msg": "fix(grade): 화면에 남아 있던 enum 등급명을 걷어낸다",
+          "at": "2026-09-07 11:19 KST"
+        },
+        {
+          "msg": "fix(monthly-crm): 노트의 **강조** 표기와 부분 타깃 오독을 막는다",
+          "at": "2026-09-07 11:19 KST"
+        },
+        {
+          "msg": "feat(monthly-crm): 회고를 표·차트로 읽히게 한다",
+          "at": "2026-09-07 11:19 KST"
         }
       ],
-      "syncedAt": "2026-09-04 13:19 KST",
-      "head": "b416e3d55dac162f155b4052d5b9a606e3a2e00b"
+      "syncedAt": "2026-09-07 11:19 KST",
+      "head": "608ab50c5344aba880953d42282ed5bff6ce445c"
     }
   }
 }

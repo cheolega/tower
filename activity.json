@@ -29,12 +29,28 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "feat(rails): 재구매 주기 오버라이드 + 등급별·월별 쿠폰 할인 정책 (스키마)",
-          "at": "2026-09-08 20:20 KST"
+          "msg": "perf(reconcile): 수신확인 주기 2분 + NHN 조회 폭 16",
+          "at": "2026-09-11 00:19 KST"
+        },
+        {
+          "msg": "fix(brand-messages): 만료된 presign 대신 영구 주소로 이미지 미리보기를 푼다",
+          "at": "2026-09-11 00:19 KST"
+        },
+        {
+          "msg": "feat(rails): 재구매 발송 시점을 도착일+주기로 잡고 쿠폰 정책에 상품 축을 연다",
+          "at": "2026-09-11 00:19 KST"
+        },
+        {
+          "msg": "perf(reconcile): 수신확인 배치를 키울 수 있게 NHN 조회 폭을 고정하고 주기를 5분으로",
+          "at": "2026-09-11 00:19 KST"
+        },
+        {
+          "msg": "fix(ingest): NHN 수신 시각을 KST 로 읽고, 묶음 주문 웹훅의 externalKey 를 접는다",
+          "at": "2026-09-11 00:19 KST"
         }
       ],
-      "syncedAt": "2026-09-08 20:20 KST",
-      "head": "3b3085e0c51c58a2ed91af50ba8808055d135c25"
+      "syncedAt": "2026-09-11 00:19 KST",
+      "head": "a079b5429d82834b22888db8c04c109f02d0899a"
     }
   }
 }

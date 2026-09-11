@@ -29,28 +29,28 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "perf(reconcile): 수신확인 주기 2분 + NHN 조회 폭 16",
-          "at": "2026-09-11 00:19 KST"
+          "msg": "fix(test): 재고정 테스트 목에 인자 타입을 준다 (tsc tuple 오류)",
+          "at": "2026-09-12 07:19 KST"
         },
         {
-          "msg": "fix(brand-messages): 만료된 presign 대신 영구 주소로 이미지 미리보기를 푼다",
-          "at": "2026-09-11 00:19 KST"
+          "msg": "feat(brand-messages): 템플릿을 고치면 아직 안 나간 캠페인이 새 버전을 따라간다",
+          "at": "2026-09-12 07:19 KST"
         },
         {
-          "msg": "feat(rails): 재구매 발송 시점을 도착일+주기로 잡고 쿠폰 정책에 상품 축을 연다",
-          "at": "2026-09-11 00:19 KST"
+          "msg": "fix(send): NHN 으로 나가는 브랜드메시지는 Solapi 등록물 없이도 보낸다",
+          "at": "2026-09-12 07:19 KST"
         },
         {
-          "msg": "perf(reconcile): 수신확인 배치를 키울 수 있게 NHN 조회 폭을 고정하고 주기를 5분으로",
-          "at": "2026-09-11 00:19 KST"
+          "msg": "fix(reconcile): NHN 조회 429 에 물러나고, 한 건 실패가 배치를 죽이지 않게",
+          "at": "2026-09-12 07:19 KST"
         },
         {
-          "msg": "fix(ingest): NHN 수신 시각을 KST 로 읽고, 묶음 주문 웹훅의 externalKey 를 접는다",
-          "at": "2026-09-11 00:19 KST"
+          "msg": "feat(brand-messages): 캐러셀 버튼에도 PC URL 입력칸을 준다",
+          "at": "2026-09-12 07:19 KST"
         }
       ],
-      "syncedAt": "2026-09-11 00:19 KST",
-      "head": "a079b5429d82834b22888db8c04c109f02d0899a"
+      "syncedAt": "2026-09-12 07:19 KST",
+      "head": "c9530cf88f562d2ca6405de5b23a06bb6d46991f"
     }
   }
 }

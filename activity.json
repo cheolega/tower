@@ -29,28 +29,12 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "fix(test): 재고정 테스트 목에 인자 타입을 준다 (tsc tuple 오류)",
-          "at": "2026-09-12 07:19 KST"
-        },
-        {
-          "msg": "feat(brand-messages): 템플릿을 고치면 아직 안 나간 캠페인이 새 버전을 따라간다",
-          "at": "2026-09-12 07:19 KST"
-        },
-        {
-          "msg": "fix(send): NHN 으로 나가는 브랜드메시지는 Solapi 등록물 없이도 보낸다",
-          "at": "2026-09-12 07:19 KST"
-        },
-        {
-          "msg": "fix(reconcile): NHN 조회 429 에 물러나고, 한 건 실패가 배치를 죽이지 않게",
-          "at": "2026-09-12 07:19 KST"
-        },
-        {
-          "msg": "feat(brand-messages): 캐러셀 버튼에도 PC URL 입력칸을 준다",
-          "at": "2026-09-12 07:19 KST"
+          "msg": "feat(reports): 발송 모수 추이 — 보낼 수 있는 사람이 얼마나 늘고 있나",
+          "at": "2026-09-14 11:19 KST"
         }
       ],
-      "syncedAt": "2026-09-12 07:19 KST",
-      "head": "c9530cf88f562d2ca6405de5b23a06bb6d46991f"
+      "syncedAt": "2026-09-14 11:19 KST",
+      "head": "2218b6b64c752563cf1b8535934208a1c168d76a"
     }
   }
 }

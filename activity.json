@@ -21,12 +21,12 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "feat(monthly-crm): 대조군·기준선이 무엇과 견준 값인지 화면이 말한다",
-          "at": "2026-10-04 14:19 KST"
+          "msg": "feat(campaigns): 캠페인 성과를 네 칸으로 잰다 — 하나로는 판단이 뒤집힌다",
+          "at": "2026-10-06 15:20 KST"
         }
       ],
-      "syncedAt": "2026-10-04 14:19 KST",
-      "head": "ed8e853aae9c7d8c9551cd6263947118b200104a"
+      "syncedAt": "2026-10-06 15:20 KST",
+      "head": "d48952f12d780ad3ac5b576618b8680ec1ddc772"
     }
   }
 }

@@ -21,12 +21,16 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "feat(campaigns): 캠페인 성과를 네 칸으로 잰다 — 하나로는 판단이 뒤집힌다",
-          "at": "2026-10-06 15:20 KST"
+          "msg": "fix(campaigns): 이름 없는 수신자는 '고객님' 으로 부른다",
+          "at": "2026-10-10 09:19 KST"
+        },
+        {
+          "msg": "fix(campaigns): NHN 캐러셀 카드 본문도 변수를 치환한다 — #{name} 이 그대로 나갔다",
+          "at": "2026-10-10 09:19 KST"
         }
       ],
-      "syncedAt": "2026-10-06 15:20 KST",
-      "head": "d48952f12d780ad3ac5b576618b8680ec1ddc772"
+      "syncedAt": "2026-10-10 09:19 KST",
+      "head": "328e1cd0c6be23980650238257a82e5210761cfd"
     }
   }
 }

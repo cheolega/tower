@@ -21,16 +21,20 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "fix(campaigns): 이름 없는 수신자는 '고객님' 으로 부른다",
-          "at": "2026-10-10 09:19 KST"
+          "msg": "feat(campaigns): 대체발송 문자의 링크 줄만 따로 꾸민다",
+          "at": "2026-10-10 15:19 KST"
         },
         {
-          "msg": "fix(campaigns): NHN 캐러셀 카드 본문도 변수를 치환한다 — #{name} 이 그대로 나갔다",
-          "at": "2026-10-10 09:19 KST"
+          "msg": "fix(brand-messages): 캐러셀 상한 검증이 미등록 템플릿을 비껴가지 않게 한다",
+          "at": "2026-10-10 15:19 KST"
+        },
+        {
+          "msg": "feat(brand-messages): 캐러셀 본문 12줄·버튼명 9자를 저장 때 막는다",
+          "at": "2026-10-10 15:19 KST"
         }
       ],
-      "syncedAt": "2026-10-10 09:19 KST",
-      "head": "328e1cd0c6be23980650238257a82e5210761cfd"
+      "syncedAt": "2026-10-10 15:19 KST",
+      "head": "be9fae07eb3622fe44d0dd7ffe377d69330945fe"
     }
   }
 }

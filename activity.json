@@ -21,12 +21,12 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "fix(customer): 등급 표시명이 enum 으로 새는 길과 순서 중복을 막는다",
-          "at": "2026-10-12 18:20 KST"
+          "msg": "feat(audience): CRM 타겟 발굴 — 주기 도래·객단가·채널로 모수를 좁힌다",
+          "at": "2026-10-14 11:19 KST"
         }
       ],
-      "syncedAt": "2026-10-12 18:20 KST",
-      "head": "699e8047f5b92ba9f1acf4bf31cb22c8b97dbe72"
+      "syncedAt": "2026-10-14 11:19 KST",
+      "head": "ef06e5793dd1c0e49a5375f5ff8f40bc57e8b94a"
     }
   }
 }

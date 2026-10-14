@@ -21,28 +21,28 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "feat(audience): 타겟 발굴에 구매 횟수 필터를 넣는다 — 재구매율을 가장 강하게 가르는 축",
-          "at": "2026-10-14 12:19 KST"
+          "msg": "revert(brand-messages): 문자 대체발송 기본값을 다시 꺼짐으로 — 운영자가 매번 직접 정한다",
+          "at": "2026-10-14 15:20 KST"
         },
         {
-          "msg": "test(integrations): 스코프 목록 고정 테스트에 read_promotion 을 반영한다",
-          "at": "2026-10-14 12:19 KST"
+          "msg": "feat(rails): 보내는 기간을 3일 → 7일로 넓히고 억제를 10일로 올린다",
+          "at": "2026-10-14 15:20 KST"
         },
         {
-          "msg": "feat(integrations): 카페24 쿠폰 발급 내역 읽기 스코프를 추가한다",
-          "at": "2026-10-14 12:19 KST"
+          "msg": "fix(rails): 2차 리마인드가 0명이던 두 번째 원인 — 교차구매 명세를 단계에 맞춰 민다",
+          "at": "2026-10-14 15:20 KST"
         },
         {
-          "msg": "fix(audience): 카카오 수신 가능을 동의 이력이 아니라 isSubscribed 로 본다",
-          "at": "2026-10-14 12:19 KST"
+          "msg": "feat(brand-messages): 문자 대체발송을 기본 켜짐으로 만든다",
+          "at": "2026-10-14 15:20 KST"
         },
         {
-          "msg": "fix(audience): 타겟 발굴 기본 정렬을 \"보낼 만한 순서\" 로 바꾼다",
-          "at": "2026-10-14 12:19 KST"
+          "msg": "fix(segments): 재발송 억제가 고객을 가리키게 한다 — 별칭 충돌로 늘 9999 였다",
+          "at": "2026-10-14 15:20 KST"
         }
       ],
-      "syncedAt": "2026-10-14 12:19 KST",
-      "head": "bc117203308091f17a0fcc65f1f1f92084e804e9"
+      "syncedAt": "2026-10-14 15:20 KST",
+      "head": "e2d88798a215a4b2bd1c21fe217eb768a14ab4ba"
     }
   }
 }

@@ -21,24 +21,28 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "fix(audience): 브레인 사우나 날짜·시각을 KST 로 찍는다",
-          "at": "2026-10-15 14:19 KST"
+          "msg": "feat(audience): 예약 없이 현장에서만 산 사람도 방문 고객 모수에 넣는다",
+          "at": "2026-10-15 17:19 KST"
         },
         {
-          "msg": "feat(audience): 브레인 사우나 방문 여부를 표 머리글 정렬로 가른다",
-          "at": "2026-10-15 14:19 KST"
+          "msg": "fix(audience): 현장 구매 issueKey 필드 선언 누락",
+          "at": "2026-10-15 17:19 KST"
         },
         {
-          "msg": "fix(audience): 브레인 사우나 요약 타일이 전체 기준임을 화면이 말하게 한다",
-          "at": "2026-10-15 14:19 KST"
+          "msg": "fix(audience): 현장 구매 멱등 키를 발급 건 단위로 — 26건이 1건으로 접혔다",
+          "at": "2026-10-15 17:19 KST"
         },
         {
-          "msg": "feat(audience): 브레인 사우나 방문 고객을 별도 메뉴로 — 예약 원본을 CRM 안에 들인다",
-          "at": "2026-10-15 14:19 KST"
+          "msg": "feat(audience): 브레인 사우나에 현장 구매를 붙이고 발송 가능 타일을 내린다",
+          "at": "2026-10-15 17:19 KST"
+        },
+        {
+          "msg": "fix(audience): 목록 화면이 API 응답을 `body.data` 로 읽어 늘 비어 있던 문제",
+          "at": "2026-10-15 17:19 KST"
         }
       ],
-      "syncedAt": "2026-10-15 14:19 KST",
-      "head": "dc9b7ba49ae78a04e4195f17a05729cf0e0d8053"
+      "syncedAt": "2026-10-15 17:19 KST",
+      "head": "f50b6564ee09f6eafe846d7b910c542e2f1230a3"
     }
   }
 }

@@ -21,28 +21,12 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "feat(audience): 예약 없이 현장에서만 산 사람도 방문 고객 모수에 넣는다",
-          "at": "2026-10-15 17:19 KST"
-        },
-        {
-          "msg": "fix(audience): 현장 구매 issueKey 필드 선언 누락",
-          "at": "2026-10-15 17:19 KST"
-        },
-        {
-          "msg": "fix(audience): 현장 구매 멱등 키를 발급 건 단위로 — 26건이 1건으로 접혔다",
-          "at": "2026-10-15 17:19 KST"
-        },
-        {
-          "msg": "feat(audience): 브레인 사우나에 현장 구매를 붙이고 발송 가능 타일을 내린다",
-          "at": "2026-10-15 17:19 KST"
-        },
-        {
-          "msg": "fix(audience): 목록 화면이 API 응답을 `body.data` 로 읽어 늘 비어 있던 문제",
-          "at": "2026-10-15 17:19 KST"
+          "msg": "feat(utm): 문자 본문 링크도 수신자별 shortlink 로 — 클릭이 안 잡히고 있었다",
+          "at": "2026-10-15 22:19 KST"
         }
       ],
-      "syncedAt": "2026-10-15 17:19 KST",
-      "head": "f50b6564ee09f6eafe846d7b910c542e2f1230a3"
+      "syncedAt": "2026-10-15 22:19 KST",
+      "head": "307724098be4e8233b2bae7476657cfbf4928c07"
     }
   }
 }

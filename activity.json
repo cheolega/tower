@@ -21,12 +21,12 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "feat(audience): 브레인 사우나 오프라인 회원 탭 (#872)",
-          "at": "2026-10-21 01:18 KST"
+          "msg": "fix(integrations): 동의 이력의 시각과 철회 표시 — 규제 대응에 못 쓰던 기록을 고친다",
+          "at": "2026-10-21 21:24 KST"
         }
       ],
-      "syncedAt": "2026-10-21 01:18 KST",
-      "head": "24e1771ce87999846428807fe82b31ca8cc1c1ce"
+      "syncedAt": "2026-10-21 21:24 KST",
+      "head": "43ee18f329faa06d6b0fc5d15628e605270a5ca4"
     }
   }
 }

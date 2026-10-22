@@ -21,12 +21,16 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "fix(integrations): 동의 이력의 시각과 철회 표시 — 규제 대응에 못 쓰던 기록을 고친다",
-          "at": "2026-10-21 21:24 KST"
+          "msg": "test(audience): 브레인 사우나 탭 URL 회귀 — 라우터 모킹이 없어 렌더가 터졌다",
+          "at": "2026-10-22 19:19 KST"
+        },
+        {
+          "msg": "feat(audience): 브레인 사우나 탭을 URL 에 싣는다 — 새로고침하면 첫 탭으로 돌아가던 문제",
+          "at": "2026-10-22 19:19 KST"
         }
       ],
-      "syncedAt": "2026-10-21 21:24 KST",
-      "head": "43ee18f329faa06d6b0fc5d15628e605270a5ca4"
+      "syncedAt": "2026-10-22 19:19 KST",
+      "head": "645f982bdc542001715ebe55b91d92e9abd886ec"
     }
   }
 }

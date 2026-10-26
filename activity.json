@@ -21,12 +21,16 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "feat(campaigns): 이미지에 링크를 건다 — 그려진 CTA 가 눌러도 반응이 없었다",
-          "at": "2026-10-25 21:19 KST"
+          "msg": "fix(test): 인덱스 접근 undefined — 배포 typecheck 가 잡았다",
+          "at": "2026-10-27 01:20 KST"
+        },
+        {
+          "msg": "feat(audience): 브레인 사우나 체크인 당일 저녁 알림톡 — 방문한 날에 닿는 길이 없었다",
+          "at": "2026-10-27 01:20 KST"
         }
       ],
-      "syncedAt": "2026-10-25 21:19 KST",
-      "head": "fde5de15b4bf847692007b9791b9d5de50d368e1"
+      "syncedAt": "2026-10-27 01:20 KST",
+      "head": "acd2771b80a9664532776e4b01c8004301c6d1ce"
     }
   }
 }

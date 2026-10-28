@@ -21,16 +21,12 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "fix(test): 인덱스 접근 undefined — 배포 typecheck 가 잡았다",
-          "at": "2026-10-27 01:20 KST"
-        },
-        {
-          "msg": "feat(audience): 브레인 사우나 체크인 당일 저녁 알림톡 — 방문한 날에 닿는 길이 없었다",
-          "at": "2026-10-27 01:20 KST"
+          "msg": "fix(audience): 현장 구매는 현장 쿠폰만 센다 — 온라인 쿠폰이 방문 모수에 섞였다",
+          "at": "2026-10-28 20:25 KST"
         }
       ],
-      "syncedAt": "2026-10-27 01:20 KST",
-      "head": "acd2771b80a9664532776e4b01c8004301c6d1ce"
+      "syncedAt": "2026-10-28 20:25 KST",
+      "head": "ea4a3de0a9c9fcb8abd9c08f779a374095333014"
     }
   }
 }

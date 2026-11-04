@@ -21,24 +21,12 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "feat(campaigns): connect payment confirmation and repair early member events (#874)",
-          "at": "2026-10-31 18:18 KST"
-        },
-        {
-          "msg": "fix(campaigns): restore transactional template selection and order context (#873)",
-          "at": "2026-10-31 18:18 KST"
-        },
-        {
-          "msg": "feat(campaigns): 거래관계 예외로 보낼 길을 연다 — 법이 허용한 968명이 막혀 있었다",
-          "at": "2026-10-31 18:18 KST"
-        },
-        {
-          "msg": "docs(security): 거래관계 예외 적용 검토 — 미동의 6,474명이 한 번도 닿지 않았다",
-          "at": "2026-10-31 18:18 KST"
+          "msg": "fix(brand-messages): 본문 입력란이 5줄이라 긴 문안을 쓸 수 없었다",
+          "at": "2026-11-04 21:20 KST"
         }
       ],
-      "syncedAt": "2026-10-31 18:18 KST",
-      "head": "0419bc45d66ab97c3c04d5f93258b5decee3d1c6"
+      "syncedAt": "2026-11-04 21:20 KST",
+      "head": "c2316ddf23575b27f39c84840b2d8147781471b9"
     }
   }
 }

@@ -21,12 +21,16 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "fix(brand-messages): 본문 입력란이 5줄이라 긴 문안을 쓸 수 없었다",
-          "at": "2026-11-04 21:20 KST"
+          "msg": "revert: LMS 제목 (광고) 표기를 되돌린다 — 운영자 결정",
+          "at": "2026-11-06 16:19 KST"
+        },
+        {
+          "msg": "fix(campaigns): 광고 LMS 제목에도 (광고)를 붙인다 — 본문에만 있었다",
+          "at": "2026-11-06 16:19 KST"
         }
       ],
-      "syncedAt": "2026-11-04 21:20 KST",
-      "head": "c2316ddf23575b27f39c84840b2d8147781471b9"
+      "syncedAt": "2026-11-06 16:19 KST",
+      "head": "f8a958e60dfdfca96d5e42836cb54970862ed743"
     }
   }
 }

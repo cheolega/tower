@@ -21,16 +21,24 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "revert: LMS 제목 (광고) 표기를 되돌린다 — 운영자 결정",
-          "at": "2026-11-06 16:19 KST"
+          "msg": "feat(scripts): 발송 도구에 A/B 분할·비교군, 결과 도구에 버전·비교군 비교",
+          "at": "2026-11-07 18:19 KST"
         },
         {
-          "msg": "fix(campaigns): 광고 LMS 제목에도 (광고)를 붙인다 — 본문에만 있었다",
-          "at": "2026-11-06 16:19 KST"
+          "msg": "feat(scripts): 주간 CRM 리포트 데이터 도구(weekly.ts) — 캠페인별·사람 기준 구매와 비교군",
+          "at": "2026-11-07 18:19 KST"
+        },
+        {
+          "msg": "feat(scripts): 매일 CRM 런 도구(scripts/crm) — 모수·점검·가격·발송·결과",
+          "at": "2026-11-07 18:19 KST"
+        },
+        {
+          "msg": "feat(customers): 고객 목록에 반응 채널(카톡·문자) 칸을 붙인다",
+          "at": "2026-11-07 18:19 KST"
         }
       ],
-      "syncedAt": "2026-11-06 16:19 KST",
-      "head": "f8a958e60dfdfca96d5e42836cb54970862ed743"
+      "syncedAt": "2026-11-07 18:19 KST",
+      "head": "4df4c0a0522beb392140fd715b4ef7c076ddb3ae"
     }
   }
 }

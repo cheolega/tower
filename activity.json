@@ -21,24 +21,20 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "feat(scripts): 발송 도구에 A/B 분할·비교군, 결과 도구에 버전·비교군 비교",
-          "at": "2026-11-07 18:19 KST"
+          "msg": "fix(scripts): 문안 점검에서 승인된 링크 표시 ▶ 는 이모지로 보지 않는다",
+          "at": "2026-11-07 20:19 KST"
         },
         {
-          "msg": "feat(scripts): 주간 CRM 리포트 데이터 도구(weekly.ts) — 캠페인별·사람 기준 구매와 비교군",
-          "at": "2026-11-07 18:19 KST"
+          "msg": "fix(solapi): 발송 429 는 미발송 확정으로 재시도, 도착 조회는 list 엔드포인트로",
+          "at": "2026-11-07 20:19 KST"
         },
         {
-          "msg": "feat(scripts): 매일 CRM 런 도구(scripts/crm) — 모수·점검·가격·발송·결과",
-          "at": "2026-11-07 18:19 KST"
-        },
-        {
-          "msg": "feat(customers): 고객 목록에 반응 채널(카톡·문자) 칸을 붙인다",
-          "at": "2026-11-07 18:19 KST"
+          "msg": "feat(scripts): 월 재구매자·다음 달 VIP 예정자 집계 도구(repurchase.ts)",
+          "at": "2026-11-07 20:19 KST"
         }
       ],
-      "syncedAt": "2026-11-07 18:19 KST",
-      "head": "4df4c0a0522beb392140fd715b4ef7c076ddb3ae"
+      "syncedAt": "2026-11-07 20:19 KST",
+      "head": "0da5e7b6d2b21b8722dbd668fd6529297ca62a82"
     }
   }
 }

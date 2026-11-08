@@ -21,20 +21,12 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "fix(scripts): 문안 점검에서 승인된 링크 표시 ▶ 는 이모지로 보지 않는다",
-          "at": "2026-11-07 20:19 KST"
-        },
-        {
-          "msg": "fix(solapi): 발송 429 는 미발송 확정으로 재시도, 도착 조회는 list 엔드포인트로",
-          "at": "2026-11-07 20:19 KST"
-        },
-        {
-          "msg": "feat(scripts): 월 재구매자·다음 달 VIP 예정자 집계 도구(repurchase.ts)",
-          "at": "2026-11-07 20:19 KST"
+          "msg": "fix(scripts): 예약 캠페인 제외 조회가 조건형 세그먼트(먼데이루틴 전체 발송)에서 멈추지 않게",
+          "at": "2026-11-08 20:19 KST"
         }
       ],
-      "syncedAt": "2026-11-07 20:19 KST",
-      "head": "0da5e7b6d2b21b8722dbd668fd6529297ca62a82"
+      "syncedAt": "2026-11-08 20:19 KST",
+      "head": "fc73cee32ca588f778b4c55408cecfc433cce4d0"
     }
   }
 }

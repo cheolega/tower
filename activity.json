@@ -21,12 +21,12 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "fix(scripts): 예약 캠페인 제외 조회가 조건형 세그먼트(먼데이루틴 전체 발송)에서 멈추지 않게",
-          "at": "2026-11-08 20:19 KST"
+          "msg": "feat(scripts): audience --today — 장바구니·조회를 당일 행동으로만 좁힌다(일별 트래킹)",
+          "at": "2026-11-09 18:18 KST"
         }
       ],
-      "syncedAt": "2026-11-08 20:19 KST",
-      "head": "fc73cee32ca588f778b4c55408cecfc433cce4d0"
+      "syncedAt": "2026-11-09 18:18 KST",
+      "head": "62c9cf05d50355fde13247ee6c25c5e6726d798e"
     }
   }
 }

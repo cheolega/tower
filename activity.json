@@ -21,12 +21,12 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "feat(scripts): audience --today — 장바구니·조회를 당일 행동으로만 좁힌다(일별 트래킹)",
-          "at": "2026-11-09 18:18 KST"
+          "msg": "feat(scripts): audience --exclude-from — 수신 제외 시작일 지정(지난주 수신자까지 제외)",
+          "at": "2026-11-10 14:19 KST"
         }
       ],
-      "syncedAt": "2026-11-09 18:18 KST",
-      "head": "62c9cf05d50355fde13247ee6c25c5e6726d798e"
+      "syncedAt": "2026-11-10 14:19 KST",
+      "head": "36db7324ec2b011a238d541b8ba3d2cd26ebf266"
     }
   }
 }

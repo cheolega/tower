@@ -21,12 +21,28 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "feat(scripts): audience --exclude-from — 수신 제외 시작일 지정(지난주 수신자까지 제외)",
-          "at": "2026-11-10 14:19 KST"
+          "msg": "fix(settings): 재구매 주기 그룹 상품 연결은 createMany 로 — 복합 FK 라 중첩 생성이 거부됨",
+          "at": "2026-11-11 18:19 KST"
+        },
+        {
+          "msg": "feat(settings): 재구매 주기 메뉴 — 같은 제품을 그룹으로 묶고 그룹별 주기 설정",
+          "at": "2026-11-11 18:19 KST"
+        },
+        {
+          "msg": "feat(scripts): 재구매 소진 계산 — 마스크팩 1팩(4장)=30일·스킨부스터 박스당 30일·앰플 60일",
+          "at": "2026-11-11 18:19 KST"
+        },
+        {
+          "msg": "feat(scripts): 재구매 주기 운영자 지정값 — 선크림 50일 · 마스크팩 세트당 4주 · 핸드크림 60일",
+          "at": "2026-11-11 18:19 KST"
+        },
+        {
+          "msg": "feat(scripts): audience — 재구매 시점 행에 dueDays(예정일로부터 지난 일수)",
+          "at": "2026-11-11 18:19 KST"
         }
       ],
-      "syncedAt": "2026-11-10 14:19 KST",
-      "head": "36db7324ec2b011a238d541b8ba3d2cd26ebf266"
+      "syncedAt": "2026-11-11 18:19 KST",
+      "head": "430087466e89e011d243535a15353ca66df37e32"
     }
   }
 }

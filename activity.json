@@ -21,12 +21,12 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "feat(scripts): audience --kakao — 문자 근거 없는 카톡 채널 친구 후보를 '카톡친구' 근거로 포함",
-          "at": "2026-11-12 12:19 KST"
+          "msg": "feat(scripts): launch --keep-received — 운영자가 이번 주 수신자를 일부러 넣은 명단은 재대조에서 빼지 않는다",
+          "at": "2026-11-13 16:19 KST"
         }
       ],
-      "syncedAt": "2026-11-12 12:19 KST",
-      "head": "3a3051d18c947dd1072d63cc36196ca37d6ec885"
+      "syncedAt": "2026-11-13 16:19 KST",
+      "head": "d38aecd47c6ad0f6ca6aca7942fb46b03ae3b8a7"
     }
   }
 }

@@ -21,12 +21,28 @@
     "ega-crm": {
       "commits": [
         {
-          "msg": "feat(scripts): launch --keep-received — 운영자가 이번 주 수신자를 일부러 넣은 명단은 재대조에서 빼지 않는다",
-          "at": "2026-11-13 16:19 KST"
+          "msg": "feat(email): 메일 이미지 업로드·변환과 캠페인별 메인 이미지",
+          "at": "2026-11-17 18:19 KST"
+        },
+        {
+          "msg": "feat(email): 이메일 캠페인 채널 + 거부 이력 우선 동의 게이트 + 카페24 동기화 거부 잠금",
+          "at": "2026-11-17 18:19 KST"
+        },
+        {
+          "msg": "fix(dashboard): 같은 달 첫 구매 후 재구매도 재구매자로",
+          "at": "2026-11-17 18:19 KST"
+        },
+        {
+          "msg": "feat(dashboard): 월별 CRM 성과를 합계만 — 쇼핑몰 매출 · CRM 매출 · 결제·구매자 · 비중",
+          "at": "2026-11-17 18:19 KST"
+        },
+        {
+          "msg": "fix(dashboard): 월별 재구매율 소급 제거 — 그 달 첫 유효 결제 이전 결제로 판정",
+          "at": "2026-11-17 18:19 KST"
         }
       ],
-      "syncedAt": "2026-11-13 16:19 KST",
-      "head": "d38aecd47c6ad0f6ca6aca7942fb46b03ae3b8a7"
+      "syncedAt": "2026-11-17 18:19 KST",
+      "head": "a288cc256f17814ab6604686f474d31e6a8cb2a6"
     }
   }
 }
